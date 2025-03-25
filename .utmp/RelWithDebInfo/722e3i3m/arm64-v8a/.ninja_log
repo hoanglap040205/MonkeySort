@@ -1,0 +1,23 @@
+# ninja log v5
+7	1525	7643708671868932	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	8051ab0699a75817
+44	540	7643708661755925	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	ac387b62c470c23d
+541	892	7643708665660188	C:/Users/Admin/OneDrive/Desktop/Poject/MonsterSort/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/722e3i3m/obj/arm64-v8a/libswappywrapper.so	56406332e4dc38c1
+32	1230	7643708668883638	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	16d9b6d72ed83a2b
+11	1176	7643708667953176	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	a878a6b8c31a4699
+16	1179	7643708667746428	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	1727bcaba350eae0
+1	1268	7643708669301320	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	f75ed5eb185aeb1f
+38	1180	7643708668097232	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	74a3ff2cd755bfa1
+27	1189	7643708667973299	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	19a5c942d091ab89
+21	1412	7643708670755533	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	cd379e85c65c9ad5
+1525	1630	7643708673047807	C:/Users/Admin/OneDrive/Desktop/Poject/MonsterSort/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/722e3i3m/obj/arm64-v8a/libgame.so	2c938a22a02d0495
+77	496	7645043298673276	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	ac387b62c470c23d
+496	799	7645043301716148	C:/Users/Admin/OneDrive/Desktop/Poject/MonsterSort/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/722e3i3m/obj/arm64-v8a/libswappywrapper.so	56406332e4dc38c1
+57	2043	7645043313959881	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	1727bcaba350eae0
+35	2094	7645043314485079	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	a878a6b8c31a4699
+52	2105	7645043314570900	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	74a3ff2cd755bfa1
+71	2181	7645043315289580	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	16d9b6d72ed83a2b
+44	2186	7645043315372399	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	19a5c942d091ab89
+14	2247	7645043316094328	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	f75ed5eb185aeb1f
+64	2418	7645043317730049	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	cd379e85c65c9ad5
+29	2524	7645043318848486	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	8051ab0699a75817
+2525	2685	7645043320506671	C:/Users/Admin/OneDrive/Desktop/Poject/MonsterSort/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/722e3i3m/obj/arm64-v8a/libgame.so	2c938a22a02d0495
